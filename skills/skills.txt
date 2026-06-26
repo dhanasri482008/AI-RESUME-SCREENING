@@ -1,0 +1,36 @@
+python
+java
+sql
+mysql
+mongodb
+postgresql
+machine learning
+deep learning
+artificial intelligence
+data science
+nlp
+computer vision
+tensorflow
+keras
+pytorch
+scikit-learn
+pandas
+numpy
+matplotlib
+flask
+fastapi
+streamlit
+docker
+kubernetes
+git
+github
+linux
+aws
+azure
+gcp
+power bi
+tableau
+excel
+communication
+leadership
+problem solving

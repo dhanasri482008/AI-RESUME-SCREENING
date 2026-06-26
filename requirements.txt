@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+torch
+transformers
+nltk
+spacy
+PyPDF2
+pdfplumber
+openpyxl
+python-docx
+Pillow
+joblib
