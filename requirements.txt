@@ -10,6 +10,7 @@ nltk
 spacy
 PyPDF2
 pdfplumber
+beautifulsoup4
 openpyxl
 python-docx
 Pillow
